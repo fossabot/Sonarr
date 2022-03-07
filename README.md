@@ -53,6 +53,7 @@ This project would not be possible without the support of our users and software
 #### Mega Sponsors
 
 [![Sponsors](https://opencollective.com/sonarr/tiers/mega-sponsor.svg?width=890)](https://opencollective.com/sonarr/contribute/mega-sponsor-21443/checkout)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhicklemon%2FSonarr.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhicklemon%2FSonarr?ref=badge_shield)
 
 #### Sponsors
 
@@ -74,3 +75,6 @@ Thank you to [<img src="/Logo/Jetbrains/jetbrains.svg" alt="JetBrains" width="32
 
 - [GNU GPL v3](http://www.gnu.org/licenses/gpl.html)	
 - Copyright 2010-2021
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhicklemon%2FSonarr.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhicklemon%2FSonarr?ref=badge_large)
